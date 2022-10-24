@@ -1,0 +1,88 @@
+[
+	{
+	  "id": "1",
+	  "nome": "X-salada",
+      "ingredientes": "4 hambúrgueres de fraldinha (200 g),8 fatias de queijo prato,4 pães para hambúrguer cortados ao meio,4 folhas de alface americana rasgadas,8 rodelas de tomate,1 cebola roxa em rodelas,1 xícara de maionese Hellmann'shellmanns Logo,4 colheres de sopa de ketchup Hellmann's",
+      "valor":"20"
+	},
+  {
+	  "id": "2",
+	  "nome": "X-bacon",
+      "ingredientes": "4 hambúrgueres de fraldinha (200 g),8 fatias de queijo prato,4 pães para hambúrguer cortados ao meio,4 folhas de alface americana rasgadas,8 rodelas de tomate,1 cebola roxa em rodelas,1 xícara de maionese Hellmann'shellmanns Logo,4 colheres de sopa de ketchup Hellmann's, bacon picado( 200 g )",
+      "valor":"25"
+	},
+  {
+	  "id": "2",
+	  "nome": "X-frango",
+      "ingredientes": "4 hambúrgueres de fraldinha (200 g),8 fatias de queijo prato,4 pães para hambúrguer cortados ao meio,4 folhas de alface americana rasgadas,8 rodelas de tomate,1 cebola roxa em rodelas,1 xícara de maionese Hellmann'shellmanns Logo,4 colheres de sopa de ketchup Hellmann's, frango desfiado( 200 g )",
+      "valor":"25"
+	},
+  {
+	  "id": "3",
+	  "nome": "X-tudao",
+      "ingredientes": "4 hambúrgueres de fraldinha (200 g),8 fatias de queijo prato,4 pães para hambúrguer cortados ao meio,4 folhas de alface americana rasgadas,8 rodelas de tomate,1 cebola roxa em rodelas,1 xícara de maionese Hellmann'shellmanns Logo,4 colheres de sopa de ketchup Hellmann's, bacon picado( 200 g ),frango desfiado( 200 g )",
+      "valor":"25"
+	},
+  {
+	  "id": "4",
+	  "nome": "Cachorro-quente tradicional",
+      "ingredientes": "4 Salsichas Hot Dog Seara,4 pães brioche tipo hot dog,Maionese heiz,Batata palha a gosto,Ovos de codorna a gosto",
+      "valor":"18"
+	},
+  {
+	  "id": "5",
+	  "nome": "Cachorro-quente de bacon",
+      "ingredientes": "4 Salsichas Hot Dog Seara,4 pães brioche tipo hot dog,Maionese heiz,Batata palha a gosto,Ovos de codorna, 4 fatias de bacon",
+      "valor":"22"
+	},
+  {
+	  "id": "6",
+	  "nome": "Cachorro-quente de frango",
+      "ingredientes": "4 Salsichas Hot Dog Seara,4 pães brioche tipo hot dog,Maionese heiz,Batata palha a gosto,Ovos de codorna, frango desfiado (200 g )",
+      "valor":"22"
+	},
+  {
+	  "id": "7",
+	  "nome": "Cachorro-quente tudao",
+      "ingredientes": "4 Salsichas Hot Dog Seara,4 pães brioche tipo hot dog,Maionese heiz,Batata palha a gosto,Ovos de codorna, frango desfiado (200 g ), 4 fatias de bacon",
+      "valor":"28"
+	},
+  {
+	  "id": "8",
+	  "nome": "hambúrguer simples",
+      "ingredientes": "uma unidade de pão de hambúrguer,uma unidade de hambúrguer bovino frio(s),Cebola em rodelas a gosto",
+      "valor":"30"
+	},
+   {
+	  "id": "9",
+	  "nome": "hambúrguer de frango",
+      "ingredientes": "uma unidade de pão de hambúrguer,uma unidade de hambúrguer bovino frio(s),Cebola em rodelas, frango desfiado (200 g)",
+      "valor":"35"
+	},
+   {
+	  "id": "10",
+	  "nome": "hambúrguer de bacon",
+      "ingredientes": "uma unidade de pão de hambúrguer,uma unidade de hambúrguer bovino frio(s),Cebola em rodelas,bacon fatiado (200g)",
+      "valor":"35"
+	},
+  {
+	  "id": "11",
+	  "nome": "hambúrguer tudao",
+      "ingredientes": "uma unidade de pão de hambúrguer,uma unidade de hambúrguer bovino frio(s),Cebola em rodelas, frango desfiado (200 g),bacon fatiado(200g)",
+      "valor":"40"
+	},
+  {
+	  "id": "12",
+	  "nome": "Pepsi 2 litros",
+      "valor":"10"
+	},
+  {
+	  "id": "13",
+	  "nome": "Coca-cola 2 litros",
+      "valor":"10"
+	}
+  
+  
+
+	
+]
